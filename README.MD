@@ -1,2 +1,2 @@
 # CAPACITAÇÃO Git / GitHub
-Teset
+Test
